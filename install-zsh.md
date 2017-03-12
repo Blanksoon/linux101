@@ -18,9 +18,10 @@ sudo vi ~/.zshrc
 ZSH_THEME="agnoster"
 ```
 
+
+[font Inconsolata](https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf)
+
 ```
-font Inconsolata
-https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf
 sudo cp Inconsolata\ for\ Powerline.otf /usr/share/fonts
 ```
 
