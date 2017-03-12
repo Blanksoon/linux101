@@ -15,7 +15,19 @@ restart or logout user
 ### Change theme
 ```
 sudo vi ~/.zshrc
-ZSH_THEME="cloud"
+ZSH_THEME="agnoster"
 ```
 
+```
 font Inconsolata
+https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf
+sudo cp Inconsolata\ for\ Powerline.otf /usr/share/fonts
+```
+
+```
+color
+background: #17303E
+yellow: #FAEF0A
+green: #41F732
+blue: #3465A4
+```
