@@ -9,4 +9,4 @@ sudo vi /etc/X11/xorg.conf   : edit file follwe below text
 
 **VertRefresh     56.0 - 76.0**
 
-link(last comment): https://forums.linuxmint.com/viewtopic.php?t=147851
+link(last comment): https://forums.linuxmint.com/viewtopic.php?t=226391
