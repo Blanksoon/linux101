@@ -1,1 +1,3 @@
 # learn-linux
+
+ubuntu gnome
